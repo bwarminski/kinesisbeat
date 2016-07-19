@@ -1,0 +1,5 @@
+= Kinesisbeat Docs
+
+Welcome to the Kinesisbeat documentation.
+
+
